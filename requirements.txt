@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pillow
+mlx
+mlx-vlm
+transformers>=4.45.0,<5.0.0
+qwen-vl-utils
+torch
+torchvision
