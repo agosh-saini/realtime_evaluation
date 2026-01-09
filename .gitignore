@@ -18,7 +18,6 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
 lib64/
 parts/
 sdist/
@@ -43,3 +42,8 @@ wheels/
 node_modules/
 .next/
 out/
+
+# Cursor, Antigravity, and Claude
+.cursor/
+.antigravity/
+.claude/
